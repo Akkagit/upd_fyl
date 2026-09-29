@@ -1,0 +1,58 @@
+# ==============================
+# Build artifacts
+# ==============================
+build/
+Build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# ==============================
+# Dataset / test data
+# ==============================
+DataSet/
+Sample/
+
+# ==============================
+# Other non-source directories
+# ==============================
+app/
+5.28替换前/
+
+# ==============================
+# IDE
+# ==============================
+.vs/
+.vscode/
+.idea/
+
+# ==============================
+# Compiled files
+# ==============================
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.lib
+*.pdb
+*.ilk
+
+# ==============================
+# Temporary files
+# ==============================
+*.log
+*.tmp
+*.user
+*.suo
